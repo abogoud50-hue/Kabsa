@@ -1,1 +1,6 @@
 
+{
+  "appId": "com.kabsa.tycoon",
+  "appName": "Kabsa Tycoon",
+  "webDir": "dist"
+}
